@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FirebaseCM</string>
+    <string name="msg_subscribed">fire</string>
+    <string name="msg_subscribe_failed">failed</string>
 </resources>
